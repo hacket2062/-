@@ -1,0 +1,6 @@
+{
+  "name": "智光守護者：108 學園大冒險",
+  "description": "對應台灣 108 課綱三至六年級國語、英語、數學、自然四大主題世界的互動學習冒險遊戲，結合答題戰鬥、骨架動畫、守護精靈養成、錯題間隔複習與家長學習報告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
